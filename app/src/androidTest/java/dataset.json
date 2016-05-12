@@ -1,0 +1,381 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "gabrielle",
+        "last": "gauthier"
+      },
+      "location": {
+        "street": "7794 york st",
+        "city": "inverness",
+        "state": "new brunswick",
+        "postcode": 85884
+      },
+      "email": "gabrielle.gauthier@example.com",
+      "login": {
+        "username": "smallswan387",
+        "password": "havefun",
+        "salt": "KbjokMhA",
+        "md5": "82e9d0aba034dbc3fec2482f698e0f5b",
+        "sha1": "7f413940a65756640434e9f74136328790dabba0",
+        "sha256": "462558834fd24d3f1f27b885a2201c0874ee0c2979dd1c86d76239d906377f4f"
+      },
+      "registered": 1296702351,
+      "dob": 835133811,
+      "phone": "565-596-4618",
+      "cell": "918-977-4219",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+      },
+      "nat": "CA"
+    },
+
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "ramon",
+        "last": "marin"
+      },
+      "location": {
+        "street": "7597 avenida del planetario",
+        "city": "granada",
+        "state": "asturias",
+        "postcode": 70133
+      },
+      "email": "ramon.marin@example.com",
+      "login": {
+        "username": "crazymeercat943",
+        "password": "ramses",
+        "salt": "Gs5vHxRY",
+        "md5": "80488b1d6a61feaae317be2afb694bc7",
+        "sha1": "e9574f74d4efd935d966004491cb0ac570ce4b6d",
+        "sha256": "82a4e68f5c1db85339205649b91bfe43f0c439a7cb38e1da77b5939c65259042"
+      },
+      "registered": 1352612561,
+      "dob": 856350653,
+      "phone": "960-606-108",
+      "cell": "620-363-939",
+      "id": {
+        "name": "DNI",
+        "value": "87519715-I"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "maria",
+        "last": "ruiz"
+      },
+      "location": {
+        "street": "1304 calle de la almudena",
+        "city": "santa cruz de tenerife",
+        "state": "país vasco",
+        "postcode": 66361
+      },
+      "email": "maria.ruiz@example.com",
+      "login": {
+        "username": "lazyladybug700",
+        "password": "wing",
+        "salt": "1F8fE28M",
+        "md5": "08a2dcee8b691d60ded4f13fcea54c70",
+        "sha1": "743777bacdb429a53b52c539a427836703b5c797",
+        "sha256": "25e0aaf971cbc29818f2da92e84ee38f3ccf6205b43af8cf5eed373dd2b336e4"
+      },
+      "registered": 938022779,
+      "dob": 519381571,
+      "phone": "946-025-105",
+      "cell": "696-262-070",
+      "id": {
+        "name": "DNI",
+        "value": "65866052-M"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/8.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "fatima",
+        "last": "marin"
+      },
+      "location": {
+        "street": "6232 calle de tetuán",
+        "city": "vitoria",
+        "state": "país vasco",
+        "postcode": 21030
+      },
+      "email": "fatima.marin@example.com",
+      "login": {
+        "username": "bluepeacock113",
+        "password": "exotic",
+        "salt": "hTa6Zrae",
+        "md5": "c945c7f811cbea8971d430204fcd85b4",
+        "sha1": "125efbe99176c1e09c5ae26015fdf90b75b00a8d",
+        "sha256": "e7229abced0352c6c34aa69d406a1dde892fc402ee0ed553816ad4d7acc9ac36"
+      },
+      "registered": 1402180592,
+      "dob": 975352440,
+      "phone": "925-503-232",
+      "cell": "684-041-545",
+      "id": {
+        "name": "DNI",
+        "value": "30686386-T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "afşar",
+        "last": "önür"
+      },
+      "location": {
+        "street": "2861 doktorlar cd",
+        "city": "bolu",
+        "state": "adıyaman",
+        "postcode": 85032
+      },
+      "email": "afşar.önür@example.com",
+      "login": {
+        "username": "bluefish459",
+        "password": "moses",
+        "salt": "DXvTpWwf",
+        "md5": "958092fe8b1590feed7fd605d0a9b980",
+        "sha1": "2af459f950cb60bb9ecfcf971622b9e52fb0c2ea",
+        "sha256": "0a7b6d0f820c20586972f117cc306aeda41d4d095b42e02f7e4cf5648e5e7779"
+      },
+      "registered": 939321643,
+      "dob": 663540537,
+      "phone": "(790)-718-7221",
+      "cell": "(553)-631-0913",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "sam",
+        "last": "hart"
+      },
+      "location": {
+        "street": "8946 george street",
+        "city": "sheffield",
+        "state": "humberside",
+        "postcode": "P13 5BE"
+      },
+      "email": "sam.hart@example.com",
+      "login": {
+        "username": "blackkoala101",
+        "password": "hola",
+        "salt": "1wbKWf94",
+        "md5": "a20b47c4f4f443b15a53d45c91fb4ed7",
+        "sha1": "b12c6f00f734ea2f99322770a645b1b5c072da53",
+        "sha256": "c979ebff202af8b50d5b18f723f0657aea666d7452cf1b8d2883cae4fb846c19"
+      },
+      "registered": 1190291940,
+      "dob": 445523371,
+      "phone": "01323 352620",
+      "cell": "0710-136-616",
+      "id": {
+        "name": "NINO",
+        "value": "CT 79 44 86 F"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "leevi",
+        "last": "maunu"
+      },
+      "location": {
+        "street": "4689 myllypuronkatu",
+        "city": "kittilä",
+        "state": "uusimaa",
+        "postcode": 28551
+      },
+      "email": "leevi.maunu@example.com",
+      "login": {
+        "username": "blackleopard129",
+        "password": "amstel",
+        "salt": "VKgkcOtQ",
+        "md5": "7da640c3eb90ca80394e16ea3904495f",
+        "sha1": "c65abbb27933ad9efe4e50600e0c740838759192",
+        "sha256": "36e278a60be6df83cd96273656609ecd773b50b7d8f3bfca4259e431503d103d"
+      },
+      "registered": 1180035238,
+      "dob": 1031395074,
+      "phone": "04-976-876",
+      "cell": "044-696-67-52",
+      "id": {
+        "name": "HETU",
+        "value": "86582466-X"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/65.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+      },
+      "nat": "FI"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "nevaeh",
+        "last": "cooper"
+      },
+      "location": {
+        "street": "2352 carlton avenue",
+        "city": "porirua",
+        "state": "marlborough",
+        "postcode": 65778
+      },
+      "email": "nevaeh.cooper@example.com",
+      "login": {
+        "username": "crazytiger898",
+        "password": "color",
+        "salt": "TWkiUW78",
+        "md5": "0b21c3d1a788c731f3d970b4f775f384",
+        "sha1": "4bb1c1a65a9db463bd2964ba06621dbacff43053",
+        "sha256": "1556b1a9aa634ea869505b064ed406f0217e12e2ea1a76c2d3aa33a26fb81f77"
+      },
+      "registered": 919186392,
+      "dob": 725856997,
+      "phone": "(245)-142-3323",
+      "cell": "(575)-964-2956",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/28.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+      },
+      "nat": "NZ"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "kristina",
+        "last": "shelton"
+      },
+      "location": {
+        "street": "7585 white oak dr",
+        "city": "dubbo",
+        "state": "south australia",
+        "postcode": 5783
+      },
+      "email": "kristina.shelton@example.com",
+      "login": {
+        "username": "crazyfish470",
+        "password": "hampton",
+        "salt": "XOu88NRK",
+        "md5": "03f24c991e4fd198b742d64314a447b0",
+        "sha1": "4eb7bd51ac4ff68d56cd0f9ba32619b53de69068",
+        "sha256": "b253645e35404df2482911acdb53bd6759f1d00a21d8ff308f2907240ec22e9a"
+      },
+      "registered": 1214890736,
+      "dob": 1113797609,
+      "phone": "05-9918-6693",
+      "cell": "0480-243-916",
+      "id": {
+        "name": "TFN",
+        "value": "612476565"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "connor",
+        "last": "patel"
+      },
+      "location": {
+        "street": "5337 cavendish drive",
+        "city": "hamilton",
+        "state": "tasman",
+        "postcode": 52046
+      },
+      "email": "connor.patel@example.com",
+      "login": {
+        "username": "bluebutterfly795",
+        "password": "giant",
+        "salt": "3sQoglT2",
+        "md5": "5df5f977c8dd92e67ab10401d9813360",
+        "sha1": "0da42a623b79d9bb69379bb174b7d1d6ecdf74c9",
+        "sha256": "8ec9672c53777ec8d52fdcadb8b489c0876ef3b6bfaecb90256c3acac11e9f88"
+      },
+      "registered": 1370768753,
+      "dob": 241586256,
+      "phone": "(467)-807-7931",
+      "cell": "(784)-629-5023",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/61.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "7fe4c667b46194de",
+    "results": 10,
+    "page": 1,
+    "version": "1.0"
+  }
+}
